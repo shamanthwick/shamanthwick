@@ -1,68 +1,102 @@
+<div align="center">
+
 # Shamanth R
 
-Cybersecurity Analyst focused on offensive security, SecOps, and AI-assisted automation.
+Cybersecurity Analyst | Offensive Security | SecOps | AI-Driven Automation
 
-[GitHub](https://github.com/shamanthwick) | [LinkedIn](https://linkedin.com/in/shamanth-r-2h0c2ooc) | [Email](mailto:shamantrsingh@gmail.com)
+[LinkedIn](https://linkedin.com/in/shamanth-r-2h0c2ooc) • [Email](mailto:shamantrsingh@gmail.com) • [GitHub](https://github.com/shamanthwick)
 
-## Summary
+</div>
 
-I work on practical cybersecurity problems across vulnerability assessment, penetration testing, threat hunting, incident response, and security automation. My recent work combines offensive security with Python-based tooling, SIEM/XDR workflows, and applied AI to reduce manual effort and improve measurable outcomes.
+## Profile
 
-## Experience
+Cybersecurity analyst with hands-on experience across offensive security, vulnerability assessment, threat hunting, incident response, and AI-assisted automation. I focus on practical security engineering: validating weaknesses, improving detection, and building workflows that reduce manual analyst effort while strengthening measurable security outcomes.
 
-### Thincnext
-**Cyber Security Analyst**  
-June 2025 - Present
+## Live Mission Log
 
-- Improved detection rates by `15%`
-- Reduced assessment time by `60%` through OSINT and AI-driven automation
-- Improved process efficiency by `30%`
-- Delivered training for `50+` participants
-- Built CTF-style exercises with `97%` positive feedback
+### Cyber Security Analyst, Thincnext
 
-### Hacker School
-**Cyber Security Professional**  
-January 2025 - June 2025
+- Improved detection capability by `15%` through hands-on security testing and deeper vulnerability validation.
+- Reduced assessment time by `60%` using OSINT and AI-driven automation workflows.
+- Improved process efficiency by `30%` by removing repetitive analyst overhead.
+- Designed and delivered cybersecurity training for `50+` participants.
+- Built CTF-style learning exercises with `97%` positive feedback.
 
-- Performed penetration testing across web, network, and operating system targets
-- Reduced critical security flaws by `15%`
-- Improved incident response speed by `25%` using SIEM/XDR workflows
+### Cyber Security Professional, Hacker School
 
-### Ashtaksha Lab
-**SOC Analyst Trainee**  
-December 2024 - April 2025
+- Performed penetration testing across web applications, networks, and operating systems.
+- Helped reduce critical security flaws by `15%` through practical remediation guidance.
+- Worked with `Splunk` and `QRadar` for threat hunting and incident response.
+- Improved response speed by `25%` in operational security workflows.
+- Gained hands-on exposure in wireless security, IoT security, malware assessment, and offensive tradecraft.
 
-- Improved threat analysis efficiency by `40%`
-- Worked with Splunk, network defense concepts, and data protection practices
+### SOC Analyst Trainee, Ashtaksha Lab
 
-## Selected Skills
+- Improved threat analysis efficiency by `40%`.
+- Applied Splunk workflows, detection concepts, and network defense fundamentals.
+- Strengthened security posture around cryptography, DLP, and secure network practices.
 
-`Python` `Bash` `SQL` `Flask` `Splunk` `QRadar` `Burp Suite` `Metasploit` `Nmap` `Wireshark` `Docker` `Git` `AWS` `Azure` `LangChain` `CrewAI`
+## Core Strengths
+
+- Penetration Testing
+- Vulnerability Assessment
+- Threat Hunting
+- Incident Response
+- SIEM/XDR Operations
+- OSINT-Driven Security Workflows
+- Python Automation
+- AI Agent and ML-Assisted Security Tooling
+
+## Arsenal
+
+```text
+Recon / Offensive     : Nmap, Burp Suite, Metasploit, Wireshark, Hydra, Hashcat, OpenVAS
+Detection / SecOps    : Splunk, QRadar, SIEM, XDR, Threat Hunting, Incident Response
+Code / Automation     : Python, Bash, SQL, Flask, OSINT workflows
+AI / Agents / ML      : LangChain, CrewAI, Phidata, TensorFlow, OpenCV, scikit-learn
+Infra / Platforms     : Kali Linux, Ubuntu, Windows, Docker, Git, AWS, Azure, GCP
+```
 
 ## Featured Project
 
 ### [IDS-With-AI](https://github.com/shamanthwick/IDS-With-AI)
 
-An intrusion detection project that combines machine learning and network monitoring using `Python`, `Scapy`, `Flask`, `SQLite`, and `Random Forest`, built around the `UNSW-NB15` dataset.
+AI-driven intrusion detection system built with `Python`, `Scapy`, `Flask`, `SQLite`, and `Random Forest`, using the `UNSW-NB15` dataset for practical threat detection workflows.
+
+- Real-time packet inspection
+- ML-assisted malicious traffic detection
+- Alerting and dashboard visibility
+- Applied security project aligned with detection engineering and network defense
 
 ## Education
 
-- `PG Certificate in AI/GenAI Powered Cybersecurity`, IIT Roorkee
-- `BCA`, Seshadripuram College, `CGPA: 8.2`
+- `PG Certificate in AI/GenAI Powered Cybersecurity`, IIT Roorkee, `2025 - 2026`
+- `BCA`, Seshadripuram College, `2021 - 2024`, `CGPA: 8.2`
 
 ## Certifications
 
-- `Certified Ethical Hacker (CEH)`
-- `Cyber Security Professionals (CSP)`
-- `IBM Cybersecurity Foundation Course`
+- Certified Ethical Hacker (`CEH`)
+- Cyber Security Professionals (`CSP`)
+- IBM Cybersecurity Foundation Course
+- Ashtaksha KSDC SOC Analyst
 
 ## Highlights
 
-- `CTF Winner`, NITK Surathkal
-- Cybersecurity workshop conductor for `30+` engineering students
-- `5+` advanced ethical hacking workshop modules completed at IISc Bengaluru
+- `CTF Winner`, NITK Surathkal, March 2025
+- Conducted cybersecurity workshop for `30+` engineering students, April 2025
+- Completed `5+` advanced ethical hacking modules at IISc Bengaluru
 
-## GitHub
+## GitHub Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=shamanthwick&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=ffffff" alt="GitHub stats" />
+<div align="center">
 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shamanthwick&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamanthwick&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+
+</div>
+
+## Secure Channel
+
+- Email: [shamantrsingh@gmail.com](mailto:shamantrsingh@gmail.com)
+- LinkedIn: [shamanth-r-2h0c2ooc](https://linkedin.com/in/shamanth-r-2h0c2ooc)
+- GitHub: [shamanthwick](https://github.com/shamanthwick)
