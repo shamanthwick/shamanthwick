@@ -57,16 +57,32 @@ operator_profile = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,linux,bash,docker,git,github,aws,azure,mysql,tensorflow,opencv)](https://skillicons.dev)
+[![Core Skills](https://skillicons.dev/icons?i=python,bash,linux,kali,docker,git,github,aws,azure,gcp,mysql,tensorflow,opencv,sklearn,flask)](https://skillicons.dev)
 
 </div>
 
-```text
-Offensive Security    -> Nmap, Burp Suite, Metasploit, Wireshark, Hashcat, Hydra, OpenVAS
-Detection & SecOps    -> Splunk, QRadar, SIEM/XDR, Threat Hunting, Incident Response, MITRE ATT&CK
-AI & Automation       -> Python, LangChain, CrewAI, Phidata, ML workflows, OSINT automation
-Infrastructure        -> Docker, Git, AWS, Azure, Google Cloud, Kali Linux, Ubuntu, Windows
-```
+### Cybersecurity Tools
+
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A72?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+</div>
+
+### Security Concepts
+
+<div align="center">
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge)
+![Cyber Kill Chain](https://img.shields.io/badge/Cyber%20Kill%20Chain-4B0082?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-006400?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-8B0000?style=for-the-badge)
+
+</div>
 
 ## Featured Project
 
