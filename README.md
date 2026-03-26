@@ -10,33 +10,32 @@ Cybersecurity Analyst | Offensive Security | SecOps | AI-Driven Automation
 
 ## Profile
 
-Cybersecurity analyst with hands-on experience in penetration testing, vulnerability assessment, SecOps, threat hunting, incident response, and AI-assisted automation. I focus on practical security work: identifying weaknesses, improving detection, and building workflows that reduce analyst effort while improving measurable outcomes.
+Cybersecurity analyst with hands-on experience in penetration testing, vulnerability assessment, SecOps, threat hunting, and AI-assisted automation. I focus on practical security engineering: identifying weaknesses, improving detection, and building workflows that reduce analyst effort while increasing measurable security outcomes.
 
 ## Current Role
 
 ### Cyber Security Analyst, Thincnext
 
 - Improved detection rates by `15%` through hands-on vulnerability assessment and offensive testing.
-- Reduced assessment time by `60%` using OSINT and AI-driven automation workflows.
-- Improved operational efficiency by `30%` by streamlining repetitive analyst tasks.
+- Reduced vulnerability assessment time by `60%` using OSINT tools and AI-driven automation.
+- Improved operational efficiency by `30%` by building more effective security workflows.
 - Designed and delivered cybersecurity training for `50+` participants.
-- Built CTF-style learning exercises with `97%` positive feedback.
+- Built CTF-style learning experiences with `97%` positive feedback.
 
 ## Previous Experience
 
 ### Cyber Security Professional, Hacker School
 
-- Performed penetration testing across web applications, networks, and operating systems.
-- Helped reduce critical security flaws by `15%` through practical remediation support.
-- Worked with `Splunk` and `QRadar` for threat hunting and incident response.
-- Improved response speed by `25%` in operational security workflows.
-- Gained hands-on exposure to wireless security, IoT security, malware assessment, and offensive operations.
+- Performed full-scope penetration testing across web applications, networks, and operating systems.
+- Helped reduce critical security flaws by `15%` through actionable remediation guidance.
+- Applied SIEM/XDR workflows for threat hunting and incident response, improving response time by `25%`.
+- Worked across offensive security, wireless security, IoT security, and malware assessment.
 
 ### SOC Analyst Trainee, Ashtaksha Lab
 
-- Improved threat analysis efficiency by `40%`.
-- Worked with Splunk, network defense concepts, and data protection practices.
-- Strengthened security posture around cryptography, DLP, and secure network operations.
+- Improved threat analysis efficiency by `40%` using Kali Linux and Splunk-based workflows.
+- Supported stronger data protection practices across DLP, encryption, PII/PHI handling, and secure operations.
+- Contributed to a `30%` reduction in network-based vulnerabilities through stronger security fundamentals and monitoring.
 
 ## Core Strengths
 
@@ -45,17 +44,17 @@ Cybersecurity analyst with hands-on experience in penetration testing, vulnerabi
 - Threat Hunting
 - Incident Response
 - SIEM/XDR Operations
-- Python Automation
 - OSINT-Driven Security Workflows
-- AI-Assisted Security Tooling
+- Python Automation
+- AI Agent and ML-Assisted Security Tooling
 
 ## Tools And Technologies
 
 ```text
 Security       : Burp Suite, Metasploit, Nmap, Wireshark, Nessus, OpenVAS, OWASP ZAP
-SecOps         : Splunk, QRadar, SIEM, XDR, MITRE ATT&CK, Cyber Kill Chain
-Programming    : Python, Bash, SQL, Flask
-AI / ML        : LangChain, CrewAI, Phidata, TensorFlow, OpenCV, scikit-learn
+SecOps         : Splunk, QRadar, EDR/XDR, MITRE ATT&CK, Cyber Kill Chain
+Programming    : Python, Bash, SQL
+AI/ML          : LangChain, CrewAI, Phidata, TensorFlow, OpenCV, scikit-learn
 Infrastructure : Docker, Git, AWS, Azure, Google Cloud
 Platforms      : Kali Linux, Ubuntu, Windows, macOS
 ```
@@ -69,7 +68,7 @@ AI-driven intrusion detection system built with `Python`, `Scapy`, `Flask`, `SQL
 - Real-time packet inspection
 - ML-assisted malicious traffic detection
 - Alerting and dashboard visibility
-- Applied security project aligned with network defense and detection engineering
+- Security-focused applied project aligned with my professional interests
 
 ## Education
 
