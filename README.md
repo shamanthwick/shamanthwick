@@ -1,33 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:061a40,50:0b6e4f,100:18a999&text=Shamanth%20R&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Offensive%20Security%20%7C%20AI%20Automation&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:07111f,45:0b5d4b,100:18a999&text=Shamanth%20R&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Analyst%20%7C%20Offensive%20Security%20%7C%20SecOps%20%7C%20AI%20Automation&descAlignY=57" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=18A999&center=true&vCenter=true&width=900&lines=Building+practical+security+systems+with+AI+and+automation;Focused+on+penetration+testing%2C+SecOps%2C+and+threat+hunting;Turning+security+learning+into+hands-on+labs+and+CTF-style+training)](https://github.com/shamanthwick)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=18A999&center=true&vCenter=true&width=980&lines=Recruiter-ready+profile%2C+built+with+a+security-engineering+mindset;Focused+on+penetration+testing%2C+threat+hunting%2C+and+AI-assisted+automation;Turning+hands-on+security+work+into+practical+systems%2C+labs%2C+and+detection+workflows)](https://github.com/shamanthwick)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shamanth_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamanth-r-2h0c2ooc)
 [![Email](https://img.shields.io/badge/Email-shamantrsingh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamantrsingh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shamanthwick-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamanthwick)
 [![Profile Views](https://komarev.com/ghpvc/?username=shamanthwick&style=for-the-badge&color=18a999)](https://github.com/shamanthwick)
 
 </div>
 
-## About Me
+## Profile
 
-I am a cybersecurity analyst based in Bangalore, India, with hands-on experience across offensive security, SecOps, and AI-assisted automation.
+Cybersecurity analyst with hands-on experience in offensive security, vulnerability assessment, SecOps, threat hunting, incident response, and AI-assisted automation. I focus on practical security engineering: validating weaknesses, improving detection coverage, and building workflows that reduce analyst effort while producing measurable results.
 
-- Currently working as a `Cyber Security Analyst` at `Thincnext`
-- Background in `penetration testing`, `threat hunting`, `incident response`, and `vulnerability assessment`
-- Building with `Python`, `Flask`, `Scapy`, `SIEM/XDR`, `OSINT`, and `AI agent workflows`
-- Interested in practical security engineering, detection systems, hands-on labs, and red-team style problem solving
+```text
+operator_profile = {
+  current_role: "Cyber Security Analyst @ Thincnext",
+  focus: ["Penetration Testing", "SecOps", "Threat Hunting", "AI Automation"],
+  building_with: ["Python", "Flask", "Scapy", "Splunk", "QRadar", "OSINT"],
+  mission: "Make security work more practical, measurable, and repeatable"
+}
+```
 
-## Experience Snapshot
+## Impact Snapshot
 
-| Role | Impact |
+| Area | Outcome |
 | --- | --- |
-| `Cyber Security Analyst` at `Thincnext` | Improved detection rates by `15%`, reduced assessment time by `60%`, and designed training for `50+` participants |
-| `Cyber Security Professional` at `Hacker School` | Performed full-scope pentesting, used SIEM/XDR for threat hunting, and helped improve response time by `25%` |
-| `SOC Analyst Trainee` at `Ashtaksha Lab` | Worked on Splunk-based analysis, data protection concepts, and network defense fundamentals |
+| Detection | Improved detection rates by `15%` through hands-on validation and offensive testing |
+| Automation | Reduced assessment time by `60%` using OSINT and AI-driven workflows |
+| Efficiency | Improved operational efficiency by `30%` by reducing repetitive analyst overhead |
+| Training | Designed and delivered training for `50+` participants |
+| Practical Learning | Built CTF-style exercises with `97%` positive feedback |
 
-## Focus Areas
+## Experience
+
+### Cyber Security Analyst, Thincnext
+
+- Performed hands-on vulnerability assessment and offensive validation to expose real weaknesses before attackers do.
+- Applied OSINT and AI-assisted automation to accelerate assessment workflows and improve analyst throughput.
+- Designed training paths and practical lab exercises to strengthen hands-on cybersecurity learning.
+
+### Cyber Security Professional, Hacker School
+
+- Performed full-scope penetration testing across web applications, networks, and operating systems.
+- Used `Splunk` and `QRadar` for threat hunting and incident response workflows.
+- Worked across wireless security, IoT security, malware assessment, and offensive tradecraft.
+
+### SOC Analyst Trainee, Ashtaksha Lab
+
+- Built experience in Splunk-driven analysis, detection thinking, and secure network operations.
+- Strengthened defensive understanding across DLP, encryption, PII/PHI handling, and security fundamentals.
+
+## Arsenal
 
 <div align="center">
 
@@ -36,13 +62,13 @@ I am a cybersecurity analyst based in Bangalore, India, with hands-on experience
 </div>
 
 ```text
-Offensive Security    -> Nmap, Burp Suite, Metasploit, Wireshark, Hashcat, Hydra
-Detection & SecOps    -> Splunk, QRadar, Threat Hunting, Incident Response, MITRE ATT&CK
+Offensive Security    -> Nmap, Burp Suite, Metasploit, Wireshark, Hashcat, Hydra, OpenVAS
+Detection & SecOps    -> Splunk, QRadar, SIEM/XDR, Threat Hunting, Incident Response, MITRE ATT&CK
 AI & Automation       -> Python, LangChain, CrewAI, Phidata, ML workflows, OSINT automation
-Platforms             -> Kali Linux, Ubuntu, Windows, Cloud environments, Docker
+Infrastructure        -> Docker, Git, AWS, Azure, Google Cloud, Kali Linux, Ubuntu, Windows
 ```
 
-## Featured Work
+## Featured Project
 
 <div align="center">
 
@@ -54,13 +80,8 @@ Platforms             -> Kali Linux, Ubuntu, Windows, Cloud environments, Docker
 
 - AI-driven intrusion detection system using the `UNSW-NB15` dataset
 - Built with `Python`, `Scapy`, `Flask`, `SQLite`, and `Random Forest`
-- Focused on real-time packet inspection, alerting, and practical threat visibility
-
-### What I Like Building
-
-- Security tooling that turns detection logic into something measurable and usable
-- AI-assisted workflows for faster vulnerability assessment and analyst productivity
-- Training labs, guided workshops, and CTF-style exercises that make concepts practical
+- Designed for real-time packet inspection, alerting, and practical threat visibility
+- Aligns directly with my interest in detection engineering, network defense, and applied ML
 
 ## Certifications And Learning
 
@@ -68,7 +89,7 @@ Platforms             -> Kali Linux, Ubuntu, Windows, Cloud environments, Docker
 - `Cyber Security Professionals (CSP)`
 - `IBM Cybersecurity Foundation Course`
 - `PG Certificate in AI/GenAI Powered Cybersecurity` from `IIT Roorkee`
-- `BCA` from `Seshadripuram College`, graduating with `CGPA 8.2`
+- `BCA` from `Seshadripuram College`, `CGPA 8.2`
 
 ## Highlights
 
