@@ -10,31 +10,33 @@ Cybersecurity Analyst | Offensive Security | SecOps | AI-Driven Automation
 
 ## Profile
 
-Cybersecurity analyst with hands-on experience across offensive security, vulnerability assessment, threat hunting, incident response, and AI-assisted automation. I focus on practical security engineering: validating weaknesses, improving detection, and building workflows that reduce manual analyst effort while strengthening measurable security outcomes.
+Cybersecurity analyst with hands-on experience in penetration testing, vulnerability assessment, SecOps, threat hunting, incident response, and AI-assisted automation. I focus on practical security work: identifying weaknesses, improving detection, and building workflows that reduce analyst effort while improving measurable outcomes.
 
-## Live Mission Log
+## Current Role
 
 ### Cyber Security Analyst, Thincnext
 
-- Improved detection capability by `15%` through hands-on security testing and deeper vulnerability validation.
+- Improved detection rates by `15%` through hands-on vulnerability assessment and offensive testing.
 - Reduced assessment time by `60%` using OSINT and AI-driven automation workflows.
-- Improved process efficiency by `30%` by removing repetitive analyst overhead.
+- Improved operational efficiency by `30%` by streamlining repetitive analyst tasks.
 - Designed and delivered cybersecurity training for `50+` participants.
 - Built CTF-style learning exercises with `97%` positive feedback.
+
+## Previous Experience
 
 ### Cyber Security Professional, Hacker School
 
 - Performed penetration testing across web applications, networks, and operating systems.
-- Helped reduce critical security flaws by `15%` through practical remediation guidance.
+- Helped reduce critical security flaws by `15%` through practical remediation support.
 - Worked with `Splunk` and `QRadar` for threat hunting and incident response.
 - Improved response speed by `25%` in operational security workflows.
-- Gained hands-on exposure in wireless security, IoT security, malware assessment, and offensive tradecraft.
+- Gained hands-on exposure to wireless security, IoT security, malware assessment, and offensive operations.
 
 ### SOC Analyst Trainee, Ashtaksha Lab
 
 - Improved threat analysis efficiency by `40%`.
-- Applied Splunk workflows, detection concepts, and network defense fundamentals.
-- Strengthened security posture around cryptography, DLP, and secure network practices.
+- Worked with Splunk, network defense concepts, and data protection practices.
+- Strengthened security posture around cryptography, DLP, and secure network operations.
 
 ## Core Strengths
 
@@ -43,18 +45,19 @@ Cybersecurity analyst with hands-on experience across offensive security, vulner
 - Threat Hunting
 - Incident Response
 - SIEM/XDR Operations
-- OSINT-Driven Security Workflows
 - Python Automation
-- AI Agent and ML-Assisted Security Tooling
+- OSINT-Driven Security Workflows
+- AI-Assisted Security Tooling
 
-## Arsenal
+## Tools And Technologies
 
 ```text
-Recon / Offensive     : Nmap, Burp Suite, Metasploit, Wireshark, Hydra, Hashcat, OpenVAS
-Detection / SecOps    : Splunk, QRadar, SIEM, XDR, Threat Hunting, Incident Response
-Code / Automation     : Python, Bash, SQL, Flask, OSINT workflows
-AI / Agents / ML      : LangChain, CrewAI, Phidata, TensorFlow, OpenCV, scikit-learn
-Infra / Platforms     : Kali Linux, Ubuntu, Windows, Docker, Git, AWS, Azure, GCP
+Security       : Burp Suite, Metasploit, Nmap, Wireshark, Nessus, OpenVAS, OWASP ZAP
+SecOps         : Splunk, QRadar, SIEM, XDR, MITRE ATT&CK, Cyber Kill Chain
+Programming    : Python, Bash, SQL, Flask
+AI / ML        : LangChain, CrewAI, Phidata, TensorFlow, OpenCV, scikit-learn
+Infrastructure : Docker, Git, AWS, Azure, Google Cloud
+Platforms      : Kali Linux, Ubuntu, Windows, macOS
 ```
 
 ## Featured Project
@@ -66,7 +69,7 @@ AI-driven intrusion detection system built with `Python`, `Scapy`, `Flask`, `SQL
 - Real-time packet inspection
 - ML-assisted malicious traffic detection
 - Alerting and dashboard visibility
-- Applied security project aligned with detection engineering and network defense
+- Applied security project aligned with network defense and detection engineering
 
 ## Education
 
@@ -95,7 +98,7 @@ AI-driven intrusion detection system built with `Python`, `Scapy`, `Flask`, `SQL
 
 </div>
 
-## Secure Channel
+## Contact
 
 - Email: [shamantrsingh@gmail.com](mailto:shamantrsingh@gmail.com)
 - LinkedIn: [shamanth-r-2h0c2ooc](https://linkedin.com/in/shamanth-r-2h0c2ooc)
