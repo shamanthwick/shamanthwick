@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:07111f,45:0b5d4b,100:18a999&text=Shamanth%20R&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Analyst%20%7C%20Offensive%20Security%20%7C%20SecOps%20%7C%20AI%20Automation&descAlignY=57" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=18A999&center=true&vCenter=true&width=980&lines=Recruiter-ready+profile%2C+built+with+a+security-engineering+mindset;Focused+on+penetration+testing%2C+threat+hunting%2C+and+AI-assisted+automation;Turning+hands-on+security+work+into+practical+systems%2C+labs%2C+and+detection+workflows)](https://github.com/shamanthwick)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=18A999&center=true&vCenter=true&width=900&lines=Building+practical+security+systems+with+AI+and+automation;Focused+on+penetration+testing%2C+SecOps%2C+and+threat+hunting;Turning+security+learning+into+hands-on+labs+and+CTF-style+training)](https://github.com/shamanthwick)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shamanth_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamanth-r-2h0c2ooc)
 [![Email](https://img.shields.io/badge/Email-shamantrsingh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamantrsingh@gmail.com)
