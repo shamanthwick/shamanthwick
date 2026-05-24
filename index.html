@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shamanth R — Cybersecurity Professional</title>
+  <meta name="description" content="Portfolio of Shamanth R, Cybersecurity Professional & Ethical Hacker specialising in Offensive Security, SecOps, and AI-driven security." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<!-- Progress bar -->
+<div id="progress-bar"></div>
+
+<!-- ═══ NAVBAR ═══════════════════════════════════════════ -->
+<nav id="navbar">
+  <div class="container nav-inner">
+    <a class="nav-logo" data-scroll="#hero">
+      <span class="nav-dot"></span>
+      Shamanth.R
+    </a>
+    <ul class="nav-links">
+      <li><a data-scroll="#about">About</a></li>
+      <li><a data-scroll="#experience">Experience</a></li>
+      <li><a data-scroll="#skills">Skills</a></li>
+      <li><a data-scroll="#education">Education</a></li>
+      <li><a data-scroll="#workshops">Workshops</a></li>
+      <li><a data-scroll="#contact">Contact</a></li>
+    </ul>
+    <button class="nav-hamburger" id="hamburger" aria-label="Menu">
+      <span class="hamburger-icon"></span>
+    </button>
+  </div>
+</nav>
+
+<!-- Mobile menu -->
+<div id="mobile-menu">
+  <a data-scroll="#about">About</a>
+  <a data-scroll="#experience">Experience</a>
+  <a data-scroll="#skills">Skills</a>
+  <a data-scroll="#education">Education</a>
+  <a data-scroll="#workshops">Workshops</a>
+  <a data-scroll="#contact">Contact</a>
+</div>
+
+<!-- ═══ HERO ══════════════════════════════════════════════ -->
+<section id="hero">
+  <div class="hero-bg">
+    <img src="hero-bg.png" alt="" aria-hidden="true" />
+  </div>
+  <div class="hero-scanlines"></div>
+
+  <div class="container hero-inner">
+    <!-- Status -->
+    <div class="hero-status">
+      <span class="hero-status-line"></span>
+      <span class="hero-status-text">System Online</span>
+      <span class="hero-status-dot"></span>
+    </div>
+
+    <!-- Two-col grid -->
+    <div class="hero-grid">
+      <!-- Left -->
+      <div>
+        <h1 class="hero-name">Shamanth <span class="accent">R</span></h1>
+
+        <div class="hero-typewriter">
+          <span id="tw-text"></span>
+          <span class="tw-cursor"></span>
+        </div>
+
+        <div class="hero-tags">
+          <span>Bengaluru, India</span>
+          <span class="dot">·</span>
+          <span>CEH</span>
+          <span class="dot">·</span>
+          <span>CSP</span>
+          <span class="dot">·</span>
+          <span>Mitre ATT&amp;CK</span>
+        </div>
+
+        <div class="hero-btns">
+          <button class="btn-primary" data-scroll="#contact">
+            <svg class="btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="square"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+            Establish Connection
+          </button>
+          <a class="btn-ghost" href="resume.pdf" download="Shamanth_R_Resume.pdf">
+            <svg class="btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="square"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Resume
+          </a>
+        </div>
+      </div>
+
+      <!-- Right: Terminal -->
+      <div class="terminal">
+        <div class="terminal-bar">
+          <span class="t-dot red"></span>
+          <span class="t-dot yellow"></span>
+          <span class="t-dot green"></span>
+          <span class="t-title">shamanth@kali:~</span>
+        </div>
+        <div class="terminal-body" id="term-body"></div>
+      </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="hero-stats">
+      <div><p class="stat-val">20+</p><p class="stat-lbl">Machines Pwned</p></div>
+      <div><p class="stat-val">3+</p><p class="stat-lbl">Roles / Internships</p></div>
+      <div><p class="stat-val">2yr</p><p class="stat-lbl">Hands-on XP</p></div>
+      <div><p class="stat-val">24+</p><p class="stat-lbl">Security Tools</p></div>
+      <div><p class="stat-val">3</p><p class="stat-lbl">Workshops</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ ABOUT ══════════════════════════════════════════════ -->
+<section id="about">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-tag">// 01 — Profile</p>
+      <h2 class="section-title">The <em style="color:var(--primary)">Operator</em></h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="about-grid">
+      <div class="reveal">
+        <p class="about-lead">
+          <strong>2 years</strong> of hands-on, blended experience in
+          <span class="hl">Offensive Security</span> and Security Operations (SecOps).
+          Proficient in Full-Scope Penetration Testing across Web Apps, Networks, and Operating Systems.
+        </p>
+        <p class="about-lead">
+          Leverages SIEM/XDR for active Threat Hunting and Incident Response. Highly skilled in
+          automating vulnerability assessments with <span class="hl">AI/OSINT</span> and developing
+          practical cybersecurity training programs.
+        </p>
+        <div class="about-terminal">
+          <div class="abt-row"><span>location</span><span class="arrow">→</span><span>Bengaluru, Karnataka, India</span></div>
+          <div class="abt-row"><span>focus</span><span class="arrow">→</span><span>Offensive Sec + SecOps + GenAI</span></div>
+          <div class="abt-row"><span>education</span><span class="arrow">→</span><span>IIT Roorkee PG (in progress)</span></div>
+          <div class="abt-row"><span>status</span><span class="arrow">→</span><span class="live">Available for opportunities</span></div>
+        </div>
+      </div>
+
+      <div class="pillars reveal-right">
+        <div class="pillar">
+          <div class="pillar-icon">🎯</div>
+          <div>
+            <p class="pillar-title">Offensive Security</p>
+            <p class="pillar-desc">Full-scope penetration testing across Web Apps, Networks, and OS. 20+ machines compromised.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar-icon">🛡</div>
+          <div>
+            <p class="pillar-title">SecOps & Threat Hunting</p>
+            <p class="pillar-desc">Active threat detection via SIEM/XDR (QRadar, Splunk), Incident Response, EDR/XDR, Malware Assessment.</p>
+          </div>
+        </div>
+        <div class="pillar">
+          <div class="pillar-icon">🤖</div>
+          <div>
+            <p class="pillar-title">AI-Driven Security</p>
+            <p class="pillar-desc">Automating vulnerability assessments with AI and OSINT. Building GenAI-powered security workflows.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ EXPERIENCE ═════════════════════════════════════════ -->
+<section id="experience">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-tag">// 02 — Engagement Log</p>
+      <h2 class="section-title">Experience</h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="exp-list">
+      <!-- Card 1 -->
+      <div class="exp-card reveal">
+        <div class="exp-head">
+          <div>
+            <span class="exp-badge current">Current</span>
+            <h3 class="exp-role">Cyber Security Analyst</h3>
+            <p class="exp-company">Thincnext · Bengaluru</p>
+          </div>
+          <span class="exp-date">Jun 2025 – Present</span>
+        </div>
+        <div class="exp-divider"></div>
+        <ul class="exp-points">
+          <li>Compromised given website and gained the administrator page</li>
+          <li>Learned OSINT tools and techniques, automated vulnerability assessment process with AI</li>
+          <li>Prepared syllabus and designed structure for workshops</li>
+          <li>Built custom CTFs based on hacking for workshops</li>
+        </ul>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="exp-card reveal">
+        <div class="exp-head">
+          <div>
+            <span class="exp-badge intern">Internship</span>
+            <h3 class="exp-role">Cyber Security Professional</h3>
+            <p class="exp-company">Hacker School (Cartel Software Pvt. Ltd.) · Bengaluru</p>
+          </div>
+          <span class="exp-date">Jan 2025 – Jun 2025</span>
+        </div>
+        <div class="exp-divider"></div>
+        <ul class="exp-points">
+          <li>Proficient in hands-on Network Security, Wireless Hacking, and securing IoT ecosystems</li>
+          <li>Full-Scope hands-on Penetration Testing — Web Apps, Network, OS</li>
+          <li>Compromised 20+ machines, websites, and networks using AI</li>
+          <li>SecOps and Threat Hunting using SIEM/XDR (QRadar, Splunk) for Incident Response &amp; Malware Assessment</li>
+        </ul>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="exp-card reveal">
+        <div class="exp-head">
+          <div>
+            <span class="exp-badge train">Training</span>
+            <h3 class="exp-role">Security Operations Center</h3>
+            <p class="exp-company">Ashtaksha Lab · Bengaluru</p>
+          </div>
+          <span class="exp-date">Dec 2024 – Apr 2025</span>
+        </div>
+        <div class="exp-divider"></div>
+        <ul class="exp-points">
+          <li>Kali Linux offensive security, Cyber Kill Chain, SIEM (Splunk), IDS/IPS/EDR/XDR for threat analysis</li>
+          <li>Cryptography &amp; Data Security: DLP, PII/PHI protection, Steganography, encryption</li>
+          <li>Network Architecture: OSI/TCP-IP, Firewall/VPN deployment, VLAN segmentation, Wireshark</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ SKILLS ═════════════════════════════════════════════ -->
+<section id="skills">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-tag">// 03 — Arsenal</p>
+      <h2 class="section-title">Skills &amp; Tools</h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="reveal">
+      <p class="skills-label">Core Competencies</p>
+      <div class="skills-chips">
+        <span class="chip">Cyber Security</span><span class="chip">Penetration Testing</span>
+        <span class="chip">Networking</span><span class="chip">Operating Systems</span>
+        <span class="chip">Python Scripting</span><span class="chip">Bash Scripting</span>
+        <span class="chip">Threat Hunting</span><span class="chip">Incident Response</span>
+        <span class="chip">SIEM / XDR</span><span class="chip">Malware Assessment</span>
+        <span class="chip">OSINT</span><span class="chip">Social Engineering</span>
+        <span class="chip">CTF Development</span><span class="chip">Training &amp; Education</span>
+        <span class="chip">AI-Driven Security</span>
+      </div>
+    </div>
+
+    <div class="reveal">
+      <p class="skills-label">Toolkit</p>
+      <div class="tools-grid">
+        <div class="tool-group">
+          <p class="tool-cat red">Exploitation &amp; Scanning</p>
+          <div class="tool-tags">
+            <span class="tool-tag red">Metasploit</span><span class="tool-tag red">Nmap</span>
+            <span class="tool-tag red">Nessus</span><span class="tool-tag red">OpenVAS</span>
+            <span class="tool-tag red">Nikto</span><span class="tool-tag red">Acunetix</span>
+            <span class="tool-tag red">OWASP ZAP</span>
+          </div>
+        </div>
+        <div class="tool-group">
+          <p class="tool-cat cyan">Network &amp; Traffic</p>
+          <div class="tool-tags">
+            <span class="tool-tag cyan">Wireshark</span><span class="tool-tag cyan">Burp Suite</span>
+            <span class="tool-tag cyan">Ettercap</span><span class="tool-tag cyan">Netcat</span>
+            <span class="tool-tag cyan">Suricata</span><span class="tool-tag cyan">Snort</span>
+          </div>
+        </div>
+        <div class="tool-group">
+          <p class="tool-cat cyan">SIEM &amp; Monitoring</p>
+          <div class="tool-tags">
+            <span class="tool-tag cyan">Splunk</span><span class="tool-tag cyan">QRadar</span>
+            <span class="tool-tag cyan">Mitre ATT&amp;CK</span>
+          </div>
+        </div>
+        <div class="tool-group">
+          <p class="tool-cat orange">Password &amp; Auth</p>
+          <div class="tool-tags">
+            <span class="tool-tag orange">Hashcat</span><span class="tool-tag orange">John the Ripper</span>
+            <span class="tool-tag orange">Hydra</span><span class="tool-tag orange">Aircrack-ng</span>
+          </div>
+        </div>
+        <div class="tool-group">
+          <p class="tool-cat purple">OSINT &amp; Recon</p>
+          <div class="tool-tags">
+            <span class="tool-tag purple">Maltego</span><span class="tool-tag purple">Shodan</span>
+            <span class="tool-tag purple">theHarvester</span><span class="tool-tag purple">SET</span>
+          </div>
+        </div>
+        <div class="tool-group">
+          <p class="tool-cat cyan">Infrastructure</p>
+          <div class="tool-tags">
+            <span class="tool-tag cyan">Kali Linux</span><span class="tool-tag cyan">Docker</span>
+            <span class="tool-tag cyan">Bash</span><span class="tool-tag cyan">Python</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ EDUCATION ══════════════════════════════════════════ -->
+<section id="education">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-tag">// 04 — Credentials</p>
+      <h2 class="section-title">Education &amp; Certifications</h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="edu-grid">
+      <!-- Left -->
+      <div class="reveal-left">
+        <p class="edu-sub">Academic</p>
+        <div class="edu-cards">
+          <div class="edu-card active">
+            <span class="edu-active-badge">Active</span>
+            <p class="edu-degree">PG Certificate — AI/GenAI Powered Cybersecurity</p>
+            <p class="edu-inst">IIT Roorkee × Futurense</p>
+            <div class="edu-meta"><span>2025 – 2026</span><span class="edu-meta-sep"></span><span>Online</span></div>
+          </div>
+          <div class="edu-card">
+            <p class="edu-degree">Bachelor of Computer Application</p>
+            <p class="edu-inst">Seshadripuram College</p>
+            <div class="edu-meta"><span>2021 – 2024</span><span class="edu-meta-sep"></span><span>Tumkur</span></div>
+          </div>
+          <div class="edu-card">
+            <p class="edu-degree">PCME</p>
+            <p class="edu-inst">Sarvodaya Pre-university College</p>
+            <div class="edu-meta"><span>2019 – 2021</span><span class="edu-meta-sep"></span><span>Tumkur</span></div>
+          </div>
+        </div>
+
+        <p class="edu-sub">Languages</p>
+        <div class="lang-list">
+          <div class="lang-row">
+            <span class="lang-name">English</span>
+            <div class="lang-right">
+              <span class="lang-level">Advanced</span>
+              <div class="lang-dots">
+                <span class="lang-dot on"></span><span class="lang-dot on"></span><span class="lang-dot on"></span><span class="lang-dot on"></span><span class="lang-dot on"></span>
+              </div>
+            </div>
+          </div>
+          <div class="lang-row">
+            <span class="lang-name">Hindi</span>
+            <div class="lang-right">
+              <span class="lang-level">Advanced</span>
+              <div class="lang-dots">
+                <span class="lang-dot on"></span><span class="lang-dot on"></span><span class="lang-dot on"></span><span class="lang-dot on"></span><span class="lang-dot on"></span>
+              </div>
+            </div>
+          </div>
+          <div class="lang-row">
+            <span class="lang-name">Kannada</span>
+            <div class="lang-right">
+              <span class="lang-level">Advanced</span>
+              <div class="lang-dots">
+                <span class="lang-dot on"></span><span class="lang-dot on"></span><span class="lang-dot on"></span><span class="lang-dot on"></span><span class="lang-dot on"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right: Certifications -->
+      <div class="reveal-right">
+        <p class="edu-sub">Certifications</p>
+        <div class="cert-list">
+          <div class="cert-item">
+            <div class="cert-num">01</div>
+            <div><p class="cert-name">Cyber Security Professionals (CSP)</p><p class="cert-issuer">Industry Certification</p></div>
+          </div>
+          <div class="cert-item">
+            <div class="cert-num">02</div>
+            <div><p class="cert-name">Certified Ethical Hacker (CEH)</p><p class="cert-issuer">EC-Council</p></div>
+          </div>
+          <div class="cert-item">
+            <div class="cert-num">03</div>
+            <div><p class="cert-name">IBM Cybersecurity Foundation Course</p><p class="cert-issuer">IBM</p></div>
+          </div>
+          <div class="cert-item">
+            <div class="cert-num">04</div>
+            <div><p class="cert-name">Cybersecurity Certification of Internship</p><p class="cert-issuer">Corizo</p></div>
+          </div>
+          <div class="cert-item">
+            <div class="cert-num">05</div>
+            <div><p class="cert-name">KSDC SOC Analyst</p><p class="cert-issuer">Ashtaksha</p></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ WORKSHOPS ══════════════════════════════════════════ -->
+<section id="workshops">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-tag">// 05 — Field Ops</p>
+      <h2 class="section-title">Workshops</h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="ws-grid">
+      <div class="ws-card conducted reveal">
+        <span class="ws-index">01</span>
+        <span class="ws-type conducted">Conducted</span>
+        <h3 class="ws-title">Ethical Hacking Workshop</h3>
+        <p class="ws-inst">PA College of Engineering</p>
+        <p class="ws-desc">Delivered a hands-on workshop covering ethical hacking fundamentals, live CTF challenges, and real-world offensive security methodologies to engineering undergraduates.</p>
+        <div class="ws-meta">
+          <span>📍 Bengaluru</span>
+          <span>👥 4th Semester Students</span>
+        </div>
+      </div>
+      <div class="ws-card reveal">
+        <span class="ws-index">02</span>
+        <span class="ws-type attended">Attended</span>
+        <h3 class="ws-title">Ethical Hacking Workshop</h3>
+        <p class="ws-inst">IISc Bengaluru</p>
+        <p class="ws-desc">Attended an advanced ethical hacking workshop at the Indian Institute of Science, engaging with cutting-edge offensive security research and industry practitioners.</p>
+        <div class="ws-meta">
+          <span>📍 Bengaluru</span>
+          <span>👥 Industry Professionals</span>
+        </div>
+      </div>
+      <div class="ws-card reveal">
+        <span class="ws-index">03</span>
+        <span class="ws-type attended">Attended</span>
+        <h3 class="ws-title">Ethical Hacking Workshop</h3>
+        <p class="ws-inst">NITK Surathkal</p>
+        <p class="ws-desc">Participated in an intensive ethical hacking workshop at NIT Karnataka, exploring network security, penetration testing techniques, and CTF methodology.</p>
+        <div class="ws-meta">
+          <span>📍 Surathkal</span>
+          <span>👥 Technical Students</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ CONTACT ════════════════════════════════════════════ -->
+<section id="contact">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-tag">// 06 — Establish Connection</p>
+      <h2 class="section-title">Contact</h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="contact-grid">
+      <!-- Left -->
+      <div class="reveal-left">
+        <p class="contact-heading">Ready to secure your <em class="hl">digital perimeter?</em></p>
+        <p class="contact-sub">Whether you need a penetration test, a security audit, or a cybersecurity training session — reach out. Every engagement starts with understanding your threat landscape.</p>
+
+        <div class="contact-items">
+          <a class="contact-item" href="mailto:Shamantrsingh@gmail.com">
+            <div class="contact-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"><rect x="2" y="4" width="20" height="16" rx="0"/><polyline points="2,4 12,13 22,4"/></svg>
+            </div>
+            <div><p class="contact-lbl">Email</p><p class="contact-val">Shamantrsingh@gmail.com</p></div>
+          </a>
+          <a class="contact-item" href="tel:+919620215143">
+            <div class="contact-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.8 19.79 19.79 0 0 1 .07 2.18 2 2 0 012.03 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+            </div>
+            <div><p class="contact-lbl">Phone</p><p class="contact-val">+91 9620215143</p></div>
+          </a>
+          <a class="contact-item" href="https://www.linkedin.com/in/shamanth-r-2h0c2ooc" target="_blank" rel="noreferrer">
+            <div class="contact-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+            </div>
+            <div><p class="contact-lbl">LinkedIn</p><p class="contact-val">/in/shamanth-r-2h0c2ooc</p></div>
+          </a>
+          <div class="contact-item">
+            <div class="contact-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            </div>
+            <div><p class="contact-lbl">Location</p><p class="contact-val">Bengaluru, Karnataka, India</p></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right: CTA card -->
+      <div class="reveal-right">
+        <div class="cta-card">
+          <div class="cta-glow"></div>
+          <div class="cta-status">
+            <span class="cta-dot"></span>
+            <span class="cta-status-text">Status: Available_for_hire</span>
+          </div>
+          <h3 class="cta-heading">Open to opportunities</h3>
+          <p class="cta-sub">Actively seeking full-time roles and consulting engagements in offensive security, SOC operations, and AI-driven cybersecurity. Based in Bengaluru.</p>
+          <ul class="cta-services">
+            <li>Full-scope Penetration Testing</li>
+            <li>Security Operations (SOC)</li>
+            <li>AI/GenAI Security Automation</li>
+            <li>Cybersecurity Training &amp; CTFs</li>
+          </ul>
+          <div class="cta-btns">
+            <a class="btn-primary" href="mailto:Shamantrsingh@gmail.com">
+              <svg class="btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="square"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+              Send Message
+            </a>
+            <a class="btn-ghost" href="https://www.linkedin.com/in/shamanth-r-2h0c2ooc" target="_blank" rel="noreferrer">
+              <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+              LinkedIn
+            </a>
+            <a class="btn-ghost" href="https://github.com/shamanthwick" target="_blank" rel="noreferrer">
+              <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0020 4.77 5.07 5.07 0 0019.91 1S18.73.65 16 2.48a13.38 13.38 0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 005 4.77a5.44 5.44 0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 009 18.13V22"/></svg>
+              GitHub
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ FOOTER ═════════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p class="footer-copy">&copy; <span id="year"></span> Shamanth R. All rights reserved.</p>
+    <p class="footer-sig">SYSTEM.HALT();</p>
+  </div>
+</footer>
+
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+<script src="script.js"></script>
+</body>
+</html>
